@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software developer and professional nerd
 ------------------------------------
 
-Been programming since I was a sophomore in high school.
+Been programming since I was a sophomore in high school. Passionate about efficient and flexible code.
 * 🌍  I'm based in Chicago
 * 🖥️  See my portfolio at [My website](http://sudologic.net)
 * ✉️  You can contact me at [dbwrush@dbwrush.com](mailto:dbwrush@dbwrush.com)

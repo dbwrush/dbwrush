@@ -7,7 +7,7 @@ Game developer and professional nerd
 Been programming since I was a sophomore in high school.
 * 🌍  I'm based in Chicago
 * 🖥️  See my portfolio at [My website](http://sudologic.net)
-* ✉️  You can contact me at [me@dbwrush.com](mailto:me@dbwrush.com)
+* ✉️  You can contact me at [dbwrush@dbwrush.com](mailto:dbwrush@dbwrush.com)
 * 🚀  You can play my game [Collect Call](http://collectcallgame.com)
 * 🧠  I'm learning Rust, C#, Godot Engine, and Bevy
 * 🤝  I'm open to collaborating on a lot of things.
